@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.995fc2d2.css",
-    "main.js": "/static/js/main.649afdc1.js",
-    "static/js/453.eda9659f.chunk.js": "/static/js/453.eda9659f.chunk.js",
-    "index.html": "/index.html",
-    "main.995fc2d2.css.map": "/static/css/main.995fc2d2.css.map",
-    "main.649afdc1.js.map": "/static/js/main.649afdc1.js.map",
-    "453.eda9659f.chunk.js.map": "/static/js/453.eda9659f.chunk.js.map"
+    "main.css": "/HotelRoomShowcase/static/css/main.995fc2d2.css",
+    "main.js": "/HotelRoomShowcase/static/js/main.8a60fb8e.js",
+    "static/js/453.eda9659f.chunk.js": "/HotelRoomShowcase/static/js/453.eda9659f.chunk.js",
+    "index.html": "/HotelRoomShowcase/index.html",
+    "main.995fc2d2.css.map": "/HotelRoomShowcase/static/css/main.995fc2d2.css.map",
+    "main.8a60fb8e.js.map": "/HotelRoomShowcase/static/js/main.8a60fb8e.js.map",
+    "453.eda9659f.chunk.js.map": "/HotelRoomShowcase/static/js/453.eda9659f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.995fc2d2.css",
-    "static/js/main.649afdc1.js"
+    "static/js/main.8a60fb8e.js"
   ]
 }
